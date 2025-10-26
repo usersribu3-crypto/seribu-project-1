@@ -1,0 +1,938 @@
+[
+  {
+    "name": "Coffee New Cammary",
+    "rating": "4,9",
+    "reviews": "(100)",
+    "category": "4,9(100)Kedai KopiBuka 24 jamBuka 24 jam",
+    "address": "· Rp 25–50 rb",
+    "link": "https://www.google.com/maps/place/Coffee+New+Cammary/data=!4m7!3m6!1s0x2e68c36bfb0140d3:0x8bbd8b4345e7e592!8m2!3d-6.9293401!4d107.7199398!16s%2Fg%2F11kksjy1kr!19sChIJ00AB-2vDaC4RkuXnRUOLvYs?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Rule's Coffee Roastery & Supply",
+    "rating": "4,2",
+    "reviews": "(885)",
+    "category": "4,2(885)Toko bahan makananTutup ⋅ Buka pukul 08.00Tutup ⋅ Buka pukul 08.00",
+    "address": "· $$ · Jl. Raya Cibiru No.109",
+    "link": "https://www.google.com/maps/place/Rule%27s+Coffee+Roastery+%26+Supply/data=!4m7!3m6!1s0x2e68c32f988c95fd:0xa6a2f734a0412c78!8m2!3d-6.9329388!4d107.7255981!16s%2Fg%2F11b6drry8y!19sChIJ_ZWMmC_DaC4ReCxBoDT3oqY?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Harade Cafe & Resto Steak Bandung",
+    "rating": "4,8",
+    "reviews": "(412)",
+    "category": "4,8(412)KafeTutup ⋅ Buka pukul 09.00Tutup ⋅ Buka pukul 09.00",
+    "address": "· Rp 25–75 rb",
+    "link": "https://www.google.com/maps/place/Harade+Cafe+%26+Resto+Steak+Bandung/data=!4m7!3m6!1s0x2e68c3828bea659d:0x8dc819d9aabfb64!8m2!3d-6.933939!4d107.7224286!16s%2Fg%2F11ww_h_xqb!19sChIJnWXqi4LDaC4RZPurmp2B3Ag?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Relatif Kopi Cibiru",
+    "rating": "4,4",
+    "reviews": "(934)",
+    "category": "4,4(934)Kedai KopiBuka 24 jamBuka 24 jam",
+    "address": "· Rp 25–50 rb",
+    "link": "https://www.google.com/maps/place/Relatif+Kopi+Cibiru/data=!4m7!3m6!1s0x2e68c3a9d962e085:0x3eb16fc0ec165bc!8m2!3d-6.9360265!4d107.7269667!16s%2Fg%2F11y5zp9q9m!19sChIJheBi2anDaC4RvGXBDvwW6wM?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Sisi Kopi Bandung",
+    "rating": "4,8",
+    "reviews": "(141)",
+    "category": "4,8(141)KafeTutup ⋅ Buka pukul 08.00Tutup ⋅ Buka pukul 08.00",
+    "address": "· Rp 25–50 rb · Jl. Cilengkrang 1 No.9c",
+    "link": "https://www.google.com/maps/place/Sisi+Kopi+Bandung/data=!4m7!3m6!1s0x2e68dd87d9116185:0x97932a57b79fda50!8m2!3d-6.9195049!4d107.7107869!16s%2Fg%2F11jh_p1f27!19sChIJhWER2YfdaC4RUNqft1cqk5c?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Risalah Coffee",
+    "rating": "4,7",
+    "reviews": "(100)",
+    "category": "4,7(100)Kedai KopiTutup ⋅ Buka pukul 10.00Tutup ⋅ Buka pukul 10.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Risalah+Coffee/data=!4m7!3m6!1s0x2e68c37e741a0045:0x1deeda1a76dad7fc!8m2!3d-6.925695!4d107.7220399!16s%2Fg%2F11r32_nwyj!19sChIJRQAadH7DaC4R_Nfadhra7h0?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Kenzhy coffee",
+    "rating": "4,9",
+    "reviews": "(12)",
+    "category": "4,9(12)Kedai KopiBuka ⋅ Tutup pukul 00.00Buka ⋅ Tutup pukul 00.00",
+    "address": "· $ · Gerbang Kompeks Cipadung Permai, Jl. Permai Raya No.15",
+    "link": "https://www.google.com/maps/place/Kenzhy+coffee/data=!4m7!3m6!1s0x2e68c2d66b82040d:0x8021f5ad864eb48a!8m2!3d-6.9279866!4d107.7164541!16s%2Fg%2F11c4s8625k!19sChIJDQSCa9bCaC4RirROhq31IYA?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Hudan Cafe & Resto",
+    "rating": "4,8",
+    "reviews": "(27)",
+    "category": "4,8(27)Kedai KopiTutup ⋅ Buka pukul 13.00Tutup ⋅ Buka pukul 13.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Hudan+Cafe+%26+Resto/data=!4m7!3m6!1s0x2e68dd4b26c5d3c9:0x61634fdd326ca7eb!8m2!3d-6.9236371!4d107.7124976!16s%2Fg%2F11kb9bqx3d!19sChIJydPFJkvdaC4R66dsMt1PY2E?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Tiga Belas Coffee",
+    "rating": "4,2",
+    "reviews": "(930)",
+    "category": "4,2(930)KafeTutup ⋅ Buka pukul 17.00Tutup ⋅ Buka pukul 17.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Tiga+Belas+Coffee/data=!4m7!3m6!1s0x2e68c32f9624f9b5:0xda837534b1ecd11!8m2!3d-6.9310414!4d107.7197042!16s%2Fg%2F11bv3y23t9!19sChIJtfkkli_DaC4REc0eS1M3qA0?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Demos Cafe",
+    "rating": "4,9",
+    "reviews": "(248)",
+    "category": "4,9(248)KafeTutup ⋅ Buka pukul 09.00Tutup ⋅ Buka pukul 09.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Demos+Cafe/data=!4m7!3m6!1s0x2e68c3112d7bb719:0xe40aa282d93a3365!8m2!3d-6.9279045!4d107.7158318!16s%2Fg%2F11l2tywxw2!19sChIJGbd7LRHDaC4RZTM62YKiCuQ?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Sora Coffee",
+    "rating": "4,7",
+    "reviews": "(46)",
+    "category": "4,7(46)Kedai Kopi",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Sora+Coffee/data=!4m7!3m6!1s0x2e68c3c4793e435d:0x8347d335544c97fa!8m2!3d-6.9274613!4d107.7206204!16s%2Fg%2F11svfktlct!19sChIJXUM-ecTDaC4R-pdMVDXTR4M?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "LARCADE Cafe & Eatery",
+    "rating": "4,7",
+    "reviews": "(77)",
+    "category": "4,7(77)KafeTutup ⋅ Buka pukul 11.00Tutup ⋅ Buka pukul 11.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/LARCADE+Cafe+%26+Eatery/data=!4m7!3m6!1s0x2e68ddd634489623:0x9c5e0b9b437e5bb9!8m2!3d-6.9159433!4d107.7240756!16s%2Fg%2F11fm19fw47!19sChIJI5ZINNbdaC4RuVt-Q5sLXpw?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Coffee Sufi",
+    "rating": "4,6",
+    "reviews": "(253)",
+    "category": "4,6(253)KafeTutup ⋅ Buka pukul 17.00Tutup ⋅ Buka pukul 17.00",
+    "address": "· Rp 1–25.000 · Jl. AH. Nasution No.314",
+    "link": "https://www.google.com/maps/place/Coffee+Sufi/data=!4m7!3m6!1s0x2e68c2d7d1b4f62f:0xe5a94834f548e67f!8m2!3d-6.9323805!4d107.7155118!16s%2Fg%2F11df0x04k7!19sChIJL_a00dfCaC4Rf-ZI9TRIqeU?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Spesies Coffee",
+    "rating": "4,7",
+    "reviews": "(322)",
+    "category": "4,7(322)Kedai KopiTutup ⋅ Buka pukul 16.00Tutup ⋅ Buka pukul 16.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Spesies+Coffee/data=!4m7!3m6!1s0x2e68c329d7f6d16f:0x19bea9ab77d1f43a!8m2!3d-6.9313823!4d107.7163258!16s%2Fg%2F11gdsh5d_x!19sChIJb9H21ynDaC4ROvTRd6upvhk?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Colt Coffee Art Space",
+    "rating": "4,9",
+    "reviews": "(49)",
+    "category": "4,9(49)KafeTutup ⋅ Buka pukul 13.00Tutup ⋅ Buka pukul 13.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Colt+Coffee+Art+Space/data=!4m7!3m6!1s0x2e68c3b7bcdc5d17:0xfd7f45bf641878af!8m2!3d-6.9283923!4d107.7211204!16s%2Fg%2F11jv6wt_xl!19sChIJF13cvLfDaC4Rr3gYZL9Ff_0?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Tekun.id Cibiru",
+    "rating": "5,0",
+    "reviews": "(570)",
+    "category": "5,0(570)Kedai KopiTutup ⋅ Buka pukul 09.00Tutup ⋅ Buka pukul 09.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Tekun.id+Cibiru/data=!4m7!3m6!1s0x2e68c30aeee311b3:0x9b3956ac27f3e37c!8m2!3d-6.9322938!4d107.7153365!16s%2Fg%2F11vwgvbkdp!19sChIJsxHj7grDaC4RfOPzJ6xWOZs?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Teras Kayumanis",
+    "rating": "4,6",
+    "reviews": "(299)",
+    "category": "4,6(299)KafeTutup ⋅ Buka pukul 10.00Tutup ⋅ Buka pukul 10.00",
+    "address": "· Rp 25–50 rb",
+    "link": "https://www.google.com/maps/place/Teras+Kayumanis/data=!4m7!3m6!1s0x2e68ddf1f361de3f:0x6f6e0b3346048f84!8m2!3d-6.9159286!4d107.7199904!16s%2Fg%2F11rg7f2ygw!19sChIJP95h8_HdaC4RhI8ERjMLbm8?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Manglayang Park",
+    "rating": "4,5",
+    "reviews": "(396)",
+    "category": "4,5(396)KafeTutup ⋅ Buka pukul 11.00Tutup ⋅ Buka pukul 11.00",
+    "address": "· Rp 25–50 rb · Jl. Cigagak Cipadung",
+    "link": "https://www.google.com/maps/place/Manglayang+Park/data=!4m7!3m6!1s0x2e68dd218e37c8f1:0x1e76951b42eef00c!8m2!3d-6.9036577!4d107.7342267!16s%2Fg%2F11h00csxdl!19sChIJ8cg3jiHdaC4RDPDuQhuVdh4?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Bento Kopi Cibiru",
+    "rating": "4,4",
+    "reviews": "(913)",
+    "category": "4,4(913)Kedai KopiTutup ⋅ Buka pukul 09.00Tutup ⋅ Buka pukul 09.00",
+    "address": "· Rp 25–50 rb · Jl. Mekar Mulya No.34",
+    "link": "https://www.google.com/maps/place/Bento+Kopi+Cibiru/data=!4m7!3m6!1s0x2e68c3e18b0192c3:0x86a1837613ad25bd!8m2!3d-6.9263267!4d107.7048841!16s%2Fg%2F11vs3qmlh8!19sChIJw5IBi-HDaC4RvSWtE3aDoYY?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Gluma Coffee & Eatery",
+    "rating": "4,9",
+    "reviews": "(10)",
+    "category": "4,9(10)Kedai KopiTutup ⋅ Buka pukul 12.00Tutup ⋅ Buka pukul 12.00",
+    "address": "· Rp 1–50.000",
+    "link": "https://www.google.com/maps/place/Gluma+Coffee+%26+Eatery/data=!4m7!3m6!1s0x2e68ddafb066bf3b:0xd3ef49413f2d19ee!8m2!3d-6.9133012!4d107.7190767!16s%2Fg%2F11kpf1kb2v!19sChIJO79msK_daC4R7hktP0FJ79M?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Canna Lily Cafe",
+    "rating": "4,7",
+    "reviews": "(19)",
+    "category": "4,7(19)Kedai KopiTutup ⋅ Buka pukul 10.00Tutup ⋅ Buka pukul 10.00",
+    "address": "· Rp 25–50 rb",
+    "link": "https://www.google.com/maps/place/Canna+Lily+Cafe/data=!4m7!3m6!1s0x2e68dd8e2d067ddf:0xe7b30a02c70d33a9!8m2!3d-6.9161386!4d107.719721!16s%2Fg%2F11xdk7l0yg!19sChIJ330GLY7daC4RqTMNxwIKs-c?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Apo coffee",
+    "rating": "4,7",
+    "reviews": "(77)",
+    "category": "4,7(77)KafeTutup ⋅ Buka pukul 16.00Tutup ⋅ Buka pukul 16.00",
+    "address": "· Rp 1–50.000",
+    "link": "https://www.google.com/maps/place/Apo+coffee/data=!4m7!3m6!1s0x2e68c3c3e6c87e53:0xf5521c71d97bd913!8m2!3d-6.915651!4d107.7243206!16s%2Fg%2F11hzyp6_7r!19sChIJU37I5sPDaC4RE9l72XEcUvU?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "FOLKOPIA Cafe & Eatery",
+    "rating": "5,0",
+    "reviews": "(4)",
+    "category": "5,0(4)Kedai KopiTutup ⋅ Buka pukul 11.00Tutup ⋅ Buka pukul 11.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/FOLKOPIA+Cafe+%26+Eatery/data=!4m7!3m6!1s0x2e68dd22702e32af:0x9c108aa3d0052852!8m2!3d-6.9159289!4d107.7240918!16s%2Fg%2F11xgq0wfnw!19sChIJrzIucCLdaC4RUigF0KOKEJw?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Mimik",
+    "rating": "4,8",
+    "reviews": "(73)",
+    "category": "4,8(73)Kedai Kopi",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Mimik/data=!4m7!3m6!1s0x2e68dd00a1877565:0x170e4a6239579016!8m2!3d-6.9220571!4d107.7202157!16s%2Fg%2F11n0r_w46r!19sChIJZXWHoQDdaC4RFpBXOWJKDhc?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Atap Coffee 1.0",
+    "rating": "4,9",
+    "reviews": "(37)",
+    "category": "4,9(37)Kedai KopiTutup ⋅ Buka pukul 16.00Tutup ⋅ Buka pukul 16.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Atap+Coffee+1.0/data=!4m7!3m6!1s0x2e68dd26c2298fdf:0xf8230ddb4dc4add!8m2!3d-6.9217577!4d107.7206675!16s%2Fg%2F11v42g3t8w!19sChIJ348pwibdaC4R3UrctN0wgg8?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Balong Maspi",
+    "rating": "4,8",
+    "reviews": "(20)",
+    "category": "4,8(20)Kedai KopiBuka 24 jamBuka 24 jam",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Balong+Maspi/data=!4m7!3m6!1s0x2e68dd4c7494a519:0xd736fefdfff0f037!8m2!3d-6.9238218!4d107.7227809!16s%2Fg%2F11h4gln8p_!19sChIJGaWUdEzdaC4RN_Dw__3-Ntc?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "KOPIEMAS",
+    "rating": "4,9",
+    "reviews": "(27)",
+    "category": "4,9(27)Kedai KopiTutup ⋅ Buka pukul 08.00Tutup ⋅ Buka pukul 08.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/KOPIEMAS/data=!4m7!3m6!1s0x2e68dd9b0d7a30d7:0x4200c09e21c6e076!8m2!3d-6.9156234!4d107.7243094!16s%2Fg%2F11kb3hdfx7!19sChIJ1zB6DZvdaC4RduDGIZ7AAEI?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "kelasbarista.com (Haii Roastery)",
+    "rating": "5,0",
+    "reviews": "(60)",
+    "category": "5,0(60)Kedai KopiTutup ⋅ Buka pukul 12.00Tutup ⋅ Buka pukul 12.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/kelasbarista.com+%28Haii+Roastery%29/data=!4m7!3m6!1s0x2e68c3eceaf9a94f:0x36240f628d0ec66!8m2!3d-6.9298147!4d107.7151231!16s%2Fg%2F11rcqjn9cz!19sChIJT6n56uzDaC4RZuzQKPZAYgM?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Kopi Takar",
+    "rating": "4,6",
+    "reviews": "(20)",
+    "category": "4,6(20)Kedai Kopi",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Kopi+Takar/data=!4m7!3m6!1s0x2e68c32a7ce6b865:0xc7c68f2ac07821e2!8m2!3d-6.9303129!4d107.7197128!16s%2Fg%2F11pv66wpnm!19sChIJZbjmfCrDaC4R4iF4wCqPxsc?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Od-huRR Cafe and Resto",
+    "rating": "4,9",
+    "reviews": "(12)",
+    "category": "4,9(12)KafeTutup ⋅ Buka Sen pukul 16.00Tutup ⋅ Buka Sen pukul 16.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Od-huRR+Cafe+and+Resto/data=!4m7!3m6!1s0x2e68dd9ddfe74b71:0xc77d0b560026a993!8m2!3d-6.9217577!4d107.7206675!16s%2Fg%2F11spf6qbfb!19sChIJcUvn353daC4Rk6kmAFYLfcc?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "KopiHaii 1.2 - Cipadung",
+    "rating": "4,5",
+    "reviews": "(262)",
+    "category": "4,5(262)Kedai KopiTutup ⋅ Buka pukul 12.00Tutup ⋅ Buka pukul 12.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/KopiHaii+1.2+-+Cipadung/data=!4m7!3m6!1s0x2e68dd7e26355ae3:0x5bbf4225ce0c5608!8m2!3d-6.9187835!4d107.7226562!16s%2Fg%2F11hdjjdkc1!19sChIJ41o1Jn7daC4RCFYMziVCv1s?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Kopi Kapibara",
+    "rating": "5,0",
+    "reviews": "(166)",
+    "category": "5,0(166)Kedai KopiTutup ⋅ Buka pukul 10.00Tutup ⋅ Buka pukul 10.00",
+    "address": "· Rp 25–50 rb",
+    "link": "https://www.google.com/maps/place/Kopi+Kapibara/data=!4m7!3m6!1s0x2e68dd56159eccfd:0xd3171eb28a9baacf!8m2!3d-6.9233691!4d107.7151022!16s%2Fg%2F11vlnndwx2!19sChIJ_cyeFVbdaC4Rz6qbirIeF9M?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Moal Comel Milk & Coffee",
+    "rating": "4,6",
+    "reviews": "(53)",
+    "category": "4,6(53)KafeTutup ⋅ Buka pukul 16.00Tutup ⋅ Buka pukul 16.00",
+    "address": "· $",
+    "link": "https://www.google.com/maps/place/Moal+Comel+Milk+%26+Coffee/data=!4m7!3m6!1s0x2e68c337d340b905:0xd714fb8cf4a52996!8m2!3d-6.926839!4d107.7172887!16s%2Fg%2F11f7qyzjfr!19sChIJBblA0zfDaC4Rliml9Iz7FNc?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Kedai ThreeTime",
+    "rating": "4,9",
+    "reviews": "(10)",
+    "category": "4,9(10)Kedai KopiBuka 24 jamBuka 24 jam",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Kedai+ThreeTime/data=!4m7!3m6!1s0x2e68ddefa11d2ff7:0x5356f1b54957248e!8m2!3d-6.9185335!4d107.7195462!16s%2Fg%2F11qgyfqqmp!19sChIJ9y8doe_daC4RjiRXSbXxVlM?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Kedai Wardom",
+    "rating": "4,9",
+    "reviews": "(15)",
+    "category": "4,9(15)KafeBuka 24 jamBuka 24 jam",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Kedai+Wardom/data=!4m7!3m6!1s0x2e68c3c39b62b375:0x8bfd1d311a7289ee!8m2!3d-6.9248805!4d107.7196149!16s%2Fg%2F11pkkry_j0!19sChIJdbNim8PDaC4R7olyGjEd_Ys?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Cempaka Cafe",
+    "rating": "3,8",
+    "reviews": "(23)",
+    "category": "3,8(23)KafeBuka 24 jamBuka 24 jam",
+    "address": "· Jl. Manisi",
+    "link": "https://www.google.com/maps/place/Cempaka+Cafe/data=!4m7!3m6!1s0x2e68c32b4791e8fb:0x39435fff9097546!8m2!3d-6.9248014!4d107.7208967!16s%2Fg%2F11cjhyyv1r!19sChIJ--iRRyvDaC4RRnUJ-f81lAM?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Kopi Kenangan - SPBU 34.40310 Cibiru (Container)",
+    "rating": "4,3",
+    "reviews": "(212)",
+    "category": "4,3(212)Kedai KopiBuka 24 jamBuka 24 jam",
+    "address": "· Rp 25–50 rb",
+    "link": "https://www.google.com/maps/place/Kopi+Kenangan+-+SPBU+34.40310+Cibiru+%28Container%29/data=!4m7!3m6!1s0x2e68c3f0c73b4de5:0xb2f8ef5fb37af8f3!8m2!3d-6.9325778!4d107.7260444!16s%2Fg%2F11q3zgdnx1!19sChIJ5U07x_DDaC4R8_h6s1_v-LI?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Loee Coffee",
+    "rating": "5,0",
+    "reviews": "(4)",
+    "category": "5,0(4)Kedai KopiTutup ⋅ Buka pukul 13.30Tutup ⋅ Buka pukul 13.30",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Loee+Coffee/data=!4m7!3m6!1s0x2e68ddf3f4193003:0xc9c94900a00eca64!8m2!3d-6.9156439!4d107.7243182!16s%2Fg%2F11ykqbtpww!19sChIJAzAZ9PPdaC4RZMoOoABJyck?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "OGRAW SC",
+    "rating": "4,9",
+    "reviews": "(19)",
+    "category": "4,9(19)KafeBuka 24 jamBuka 24 jam",
+    "address": "",
+    "link": "https://www.google.com/maps/place/OGRAW+SC/data=!4m7!3m6!1s0x2e68dd58442e4427:0x4b4f9de891228d00!8m2!3d-6.9151745!4d107.7182302!16s%2Fg%2F11gy376k97!19sChIJJ0QuRFjdaC4RAI0ikeidT0s?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Eastern Hills Regency G-01",
+    "rating": "4,8",
+    "reviews": "(21)",
+    "category": "4,8(21)Kafe",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Eastern+Hills+Regency+G-01/data=!4m7!3m6!1s0x2e68c37cfa338535:0x172c14c8cd3c5047!8m2!3d-6.9272654!4d107.7196463!16s%2Fg%2F11f6nc_3db!19sChIJNYUz-nzDaC4RR1A8zcgULBc?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Pistos Coffee Space",
+    "rating": "5,0",
+    "reviews": "(3)",
+    "category": "5,0(3)Kedai KopiTutup ⋅ Buka pukul 09.00Tutup ⋅ Buka pukul 09.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Pistos+Coffee+Space/data=!4m7!3m6!1s0x2e68c3f64bd31bcd:0xa5a447dac67af960!8m2!3d-6.9273298!4d107.7206214!16s%2Fg%2F11wh3hf4hj!19sChIJzRvTS_bDaC4RYPl6xtpHpKU?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "pusako kopi",
+    "rating": "4,8",
+    "reviews": "(38)",
+    "category": "4,8(38)KafeTutup ⋅ Buka pukul 16.00Tutup ⋅ Buka pukul 16.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/pusako+kopi/data=!4m7!3m6!1s0x2e68c310c1c73fad:0xf5c9ca1318820095!8m2!3d-6.9316538!4d107.7194768!16s%2Fg%2F11hdsyz1xv!19sChIJrT_HwRDDaC4RlQCCGBPKyfU?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Warung Always Barokah",
+    "rating": "4,7",
+    "reviews": "(25)",
+    "category": "4,7(25)Kedai KopiTutup ⋅ Buka pukul 08.00Tutup ⋅ Buka pukul 08.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Warung+Always+Barokah/data=!4m7!3m6!1s0x2e68c3b576f4ce43:0xefdad509fa2fa6e9!8m2!3d-6.927495!4d107.7168353!16s%2Fg%2F11sphp5kn1!19sChIJQ870drXDaC4R6aYv-gnV2u8?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Angkringan Oye",
+    "rating": "4,5",
+    "reviews": "(28)",
+    "category": "4,5(28)Kedai KopiBuka ⋅ Tutup pukul 23.00Buka ⋅ Tutup pukul 23.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Angkringan+Oye/data=!4m7!3m6!1s0x2e68dd1d50644ebf:0xccfab343e1161dda!8m2!3d-6.9186872!4d107.7226843!16s%2Fg%2F11mvxm4652!19sChIJv05kUB3daC4R2h0W4UOz-sw?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Mokopi.Co Cibiru",
+    "rating": "4,6",
+    "reviews": "(23)",
+    "category": "4,6(23)KafeTutup ⋅ Buka pukul 09.00Tutup ⋅ Buka pukul 09.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Mokopi.Co+Cibiru/data=!4m7!3m6!1s0x2e68c3e658f07d47:0x9a5a0838aae7be33!8m2!3d-6.9325861!4d107.7260787!16s%2Fg%2F11hdyk5wj7!19sChIJR33wWObDaC4RM77nqjgIWpo?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Taman Peri",
+    "rating": "4,3",
+    "reviews": "(593)",
+    "category": "4,3(593)KafeTutup ⋅ Buka pukul 09.00Tutup ⋅ Buka pukul 09.00",
+    "address": "· Rp 25–50 rb",
+    "link": "https://www.google.com/maps/place/Taman+Peri/data=!4m7!3m6!1s0x2e68c3656bb904f3:0x1a567caf42077e57!8m2!3d-6.934983!4d107.722881!16s%2Fg%2F11hdfdtdvv!19sChIJ8wS5a2XDaC4RV34HQq98Vho?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "cafe munjul 2",
+    "rating": "4,3",
+    "reviews": "(77)",
+    "category": "4,3(77)RestoranBuka ⋅ Tutup pukul 22.00Buka ⋅ Tutup pukul 22.00",
+    "address": "· $",
+    "link": "https://www.google.com/maps/place/cafe+munjul+2/data=!4m7!3m6!1s0x2e68c329fb51ed23:0xa822a17c1508dd8b!8m2!3d-6.9299327!4d107.7166945!16s%2Fg%2F11f3_z13ch!19sChIJI-1R-ynDaC4Ri90IFXyhIqg?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Refresh Cibiru",
+    "rating": "5,0",
+    "reviews": "(29)",
+    "category": "5,0(29)Toko Minuman BersodaTutup ⋅ Buka pukul 12.00Tutup ⋅ Buka pukul 12.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Refresh+Cibiru/data=!4m7!3m6!1s0x2e68c34194b30871:0x8a76af873b5c11f!8m2!3d-6.9286592!4d107.7162048!16s%2Fg%2F11js86c_7m!19sChIJcQizlEHDaC4RH8G1c_hqpwg?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Serasa Kopi",
+    "rating": "4,8",
+    "reviews": "(23)",
+    "category": "4,8(23)KafeTutup ⋅ Buka pukul 16.00Tutup ⋅ Buka pukul 16.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Serasa+Kopi/data=!4m7!3m6!1s0x2e68c350c4b90081:0x812cce1be2a2733f!8m2!3d-6.924785!4d107.7191539!16s%2Fg%2F11j0qpd74r!19sChIJgQC5xFDDaC4RP3Oi4hvOLIE?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Palma Coffee",
+    "rating": "5,0",
+    "reviews": "(4)",
+    "category": "5,0(4)Kedai Kopi",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Palma+Coffee/data=!4m7!3m6!1s0x2e68dd89c64e7b9b:0x342c56e1366a384b!8m2!3d-6.9140004!4d107.7232794!16s%2Fg%2F11srmgkqfx!19sChIJm3tOxondaC4RSzhqNuFWLDQ?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "JONGKO STEAK CIBIRU",
+    "rating": "4,5",
+    "reviews": "(116)",
+    "category": "4,5(116)KafeTutup ⋅ Buka pukul 11.00Tutup ⋅ Buka pukul 11.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/JONGKO+STEAK+CIBIRU/data=!4m7!3m6!1s0x2e68ddb22e9e73d7:0x9d2bc0f14df4867b!8m2!3d-6.9206016!4d107.7171033!16s%2Fg%2F11f5h7msfr!19sChIJ13OeLrLdaC4Re4b0TfHAK50?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Warput tempat nyaman",
+    "rating": "4,0",
+    "reviews": "(57)",
+    "category": "4,0(57)Kedai KopiTutup ⋅ Buka pukul 09.30Tutup ⋅ Buka pukul 09.30",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Warput+tempat+nyaman/data=!4m7!3m6!1s0x2e68ddd39b9953b9:0xc580dab1e7ea7adb!8m2!3d-6.9174144!4d107.7262339!16s%2Fg%2F11krhdwbr3!19sChIJuVOZm9PdaC4R23rq57HagMU?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "SAFIRA CAFE",
+    "rating": "4,5",
+    "reviews": "(13)",
+    "category": "4,5(13)Kedai KopiTutup ⋅ Buka Sen pukul 08.00Tutup ⋅ Buka Sen pukul 08.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/SAFIRA+CAFE/data=!4m7!3m6!1s0x2e68dddd9ea3fc1f:0x80e9532bf97333f3!8m2!3d-6.9096897!4d107.7232883!16s%2Fg%2F11v9kmv4pd!19sChIJH_yjnt3daC4R8zNz-StT6YA?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Chawaa Cafe",
+    "rating": "4,4",
+    "reviews": "(387)",
+    "category": "4,4(387)KafeTutup ⋅ Buka pukul 10.00Tutup ⋅ Buka pukul 10.00",
+    "address": "· Rp 25–50 rb",
+    "link": "https://www.google.com/maps/place/Chawaa+Cafe/data=!4m7!3m6!1s0x2e68c33b2bfb3565:0x2967f019282a1c38!8m2!3d-6.9352963!4d107.7133905!16s%2Fg%2F11h_l_xl27!19sChIJZTX7KzvDaC4ROBwqKBnwZyk?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "GreenLight Cafe",
+    "rating": "4,3",
+    "reviews": "(10)",
+    "category": "4,3(10)KafeTutup ⋅ Buka pukul 10.00Tutup ⋅ Buka pukul 10.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/GreenLight+Cafe/data=!4m7!3m6!1s0x2e68c329437a64f7:0x1fed8385e89829b6!8m2!3d-6.9298988!4d107.7210332!16s%2Fg%2F11f1269gpz!19sChIJ92R6QynDaC4RtimY6IWD7R8?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Bhumi Rahsa Coffee & Eatery",
+    "rating": "5,0",
+    "reviews": "(4)",
+    "category": "5,0(4)Kedai KopiTutup ⋅ Buka pukul 10.00Tutup ⋅ Buka pukul 10.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Bhumi+Rahsa+Coffee+%26+Eatery/data=!4m7!3m6!1s0x2e68c3b897788017:0x4e33dc5653000cdc!8m2!3d-6.9248034!4d107.7192333!16s%2Fg%2F11svlcfkf6!19sChIJF4B4l7jDaC4R3AwAU1bcM04?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Kedai KOIN BDG (KOPMA UIN BDG)",
+    "rating": "4,1",
+    "reviews": "(100)",
+    "category": "4,1(100)Kedai KopiTutup ⋅ Buka Sen pukul 09.00Tutup ⋅ Buka Sen pukul 09.00",
+    "address": "· $ · Jl. AH. Nasution No.105",
+    "link": "https://www.google.com/maps/place/Kedai+KOIN+BDG+%28KOPMA+UIN+BDG%29/data=!4m7!3m6!1s0x2e68c32985f81dc1:0xbbc68bbe9403d1d4!8m2!3d-6.9295811!4d107.7184743!16s%2Fg%2F11b6t77281!19sChIJwR34hSnDaC4R1NEDlL6Lxrs?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Jingga Kopi",
+    "rating": "4,9",
+    "reviews": "(16)",
+    "category": "4,9(16)Kedai KopiTutup ⋅ Buka pukul 09.00Tutup ⋅ Buka pukul 09.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Jingga+Kopi/data=!4m7!3m6!1s0x2e68dde1ac23a8b1:0xd4a84481f225644b!8m2!3d-6.9113574!4d107.7214877!16s%2Fg%2F11rzyn8g55!19sChIJsagjrOHdaC4RS2Ql8oFEqNQ?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Pagi Coffee",
+    "rating": "5,0",
+    "reviews": "(7)",
+    "category": "5,0(7)KafeBuka ⋅ Tutup pukul 22.00Buka ⋅ Tutup pukul 22.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Pagi+Coffee/data=!4m7!3m6!1s0x2e68ddfbff499687:0xe6246e4bf006fb9e!8m2!3d-6.9229062!4d107.7234796!16s%2Fg%2F11j7kb9vgn!19sChIJh5ZJ__vdaC4RnvsG8EtuJOY?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "SAUNG NASKOBUR",
+    "rating": "4,6",
+    "reviews": "(8)",
+    "category": "4,6(8)Kedai KopiTutup ⋅ Buka pukul 08.00Tutup ⋅ Buka pukul 08.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/SAUNG+NASKOBUR/data=!4m7!3m6!1s0x2e68dd1385f6a1c3:0x25e88d130370e10f!8m2!3d-6.9122531!4d107.7263496!16s%2Fg%2F11h4g8t_2y!19sChIJw6H2hRPdaC4RD-FwAxON6CU?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Ayang Coffee",
+    "rating": "4,9",
+    "reviews": "(153)",
+    "category": "4,9(153)Kedai KopiTutup ⋅ Buka pukul 08.00Tutup ⋅ Buka pukul 08.00",
+    "address": "· Rp 25–50 rb",
+    "link": "https://www.google.com/maps/place/Ayang+Coffee/data=!4m7!3m6!1s0x2e68c30b6f205679:0x69974dbe3a8de!8m2!3d-6.9388508!4d107.7154733!16s%2Fg%2F11fl9hd3xh!19sChIJeVYgbwvDaC4R3qjj23SZBgA?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "NOURE KOPI - Cafe and Friends",
+    "rating": "5,0",
+    "reviews": "(3)",
+    "category": "5,0(3)Kafe",
+    "address": "",
+    "link": "https://www.google.com/maps/place/NOURE+KOPI+-+Cafe+and+Friends/data=!4m7!3m6!1s0x2e68dde933a7b65b:0x414d1e0b4fddb09b!8m2!3d-6.9166391!4d107.7320902!16s%2Fg%2F11kxdzjx_3!19sChIJW7anM-ndaC4Rm7DdTwseTUE?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Dapoer K Mommy",
+    "rating": "5,0",
+    "reviews": "(1)",
+    "category": "5,0(1)Kedai Kopi",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Dapoer+K+Mommy/data=!4m7!3m6!1s0x2e68dd002b8bfe9f:0xbd100dba5dee481d!8m2!3d-6.9228862!4d107.7183935!16s%2Fg%2F11xv7ltpqw!19sChIJn_6LKwDdaC4RHUjuXboNEL0?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Kedai Kedua",
+    "rating": "4,7",
+    "reviews": "(136)",
+    "category": "4,7(136)KafeTutup ⋅ Buka pukul 16.00Tutup ⋅ Buka pukul 16.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Kedai+Kedua/data=!4m7!3m6!1s0x2e68c3dcd5c5f09d:0xdbbe0ace778a8467!8m2!3d-6.9325611!4d107.7134931!16s%2Fg%2F11fmyrmkm7!19sChIJnfDF1dzDaC4RZ4SKd84Kvts?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Nikmat Kehidupan Coffee",
+    "rating": "5,0",
+    "reviews": "(1)",
+    "category": "5,0(1)KafeTutup ⋅ Buka pukul 09.00Tutup ⋅ Buka pukul 09.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Nikmat+Kehidupan+Coffee/data=!4m7!3m6!1s0x2e68c3a670968b9b:0x65e0272a94efdcaf!8m2!3d-6.9260089!4d107.7144428!16s%2Fg%2F11t5swm9nf!19sChIJm4uWcKbDaC4Rr9zvlCon4GU?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Balingbing cafe",
+    "rating": "5,0",
+    "reviews": "(1)",
+    "category": "5,0(1)Kafe",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Balingbing+cafe/data=!4m7!3m6!1s0x2e68dd7afc6680d9:0x528520494b237b62!8m2!3d-6.9239806!4d107.7194375!16s%2Fg%2F11ryr7cc_r!19sChIJ2YBm_HrdaC4RYnsjS0kghVI?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "ANGKRINGAN ECO",
+    "rating": "4,9",
+    "reviews": "(10)",
+    "category": "4,9(10)KafeBuka ⋅ Tutup pukul 21.00Buka ⋅ Tutup pukul 21.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/ANGKRINGAN+ECO/data=!4m7!3m6!1s0x2e68dd26da564ce1:0x8bc3a69127669647!8m2!3d-6.9123484!4d107.7262952!16s%2Fg%2F11jwkrqd4v!19sChIJ4UxW2ibdaC4RR5ZmJ5Gmw4s?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Ngopi.So",
+    "rating": "",
+    "reviews": "",
+    "category": "Kedai KopiBuka 24 jamBuka 24 jam",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Ngopi.So/data=!4m7!3m6!1s0x2e68ddfc0e6a764d:0x566d8b5533061bf3!8m2!3d-6.9221287!4d107.7194914!16s%2Fg%2F11xf_5xbdg!19sChIJTXZqDvzdaC4R8xsGM1WLbVY?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "LIKE MILK",
+    "rating": "5,0",
+    "reviews": "(1)",
+    "category": "5,0(1)Kedai KopiTutup ⋅ Buka pukul 12.00Tutup ⋅ Buka pukul 12.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/LIKE+MILK/data=!4m7!3m6!1s0x2e68dd005715829b:0x867647ba78a036d4!8m2!3d-6.9239806!4d107.7194375!16s%2Fg%2F11ldcxnk6g!19sChIJm4IVVwDdaC4R1DageLpHdoY?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Awall Coffee",
+    "rating": "4,6",
+    "reviews": "(33)",
+    "category": "4,6(33)Kedai KopiTutup ⋅ Buka pukul 09.00Tutup ⋅ Buka pukul 09.00",
+    "address": "· Jl. Pandanwangi No. 46 Cibiru",
+    "link": "https://www.google.com/maps/place/Awall+Coffee/data=!4m7!3m6!1s0x2e68c3e2f12d5ca9:0xfce649421773518f!8m2!3d-6.9418324!4d107.7256328!16s%2Fg%2F11fmjpl0bs!19sChIJqVwt8eLDaC4Rj1FzF0JJ5vw?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "d'SRUPUT Cibiru",
+    "rating": "3,6",
+    "reviews": "(13)",
+    "category": "3,6(13)Kedai TehTutup ⋅ Buka pukul 10.00Tutup ⋅ Buka pukul 10.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/d%27SRUPUT+Cibiru/data=!4m7!3m6!1s0x2e68c3ba0f6a5529:0xdbe1a046eee18ff8!8m2!3d-6.933484!4d107.722764!16s%2Fg%2F11vcm_4tdl!19sChIJKVVqD7rDaC4R-I_h7kag4ds?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Kedai Kopi Kongsi",
+    "rating": "4,7",
+    "reviews": "(93)",
+    "category": "4,7(93)KafeSegera buka ⋅ Buka pukul 07.30Segera buka ⋅ Buka pukul 07.30",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Kedai+Kopi+Kongsi/data=!4m7!3m6!1s0x2e68c3e19e97a081:0xae44f3fbc88aef19!8m2!3d-6.9408614!4d107.7259196!16s%2Fg%2F11tmkl1646!19sChIJgaCXnuHDaC4RGe-KyPvzRK4?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Mixue Cibiru",
+    "rating": "4,5",
+    "reviews": "(420)",
+    "category": "4,5(420)Es KrimTutup ⋅ Buka pukul 10.00Tutup ⋅ Buka pukul 10.00",
+    "address": "· $ · Jl. Raya Cipadung No.481",
+    "link": "https://www.google.com/maps/place/Mixue+Cibiru/data=!4m7!3m6!1s0x2e68c3c220fb908b:0x695e44601e46ce24!8m2!3d-6.9318423!4d107.7148268!16s%2Fg%2F11rhqlns8k!19sChIJi5D7IMLDaC4RJM5GHmBEXmk?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Koffie Waroeng Panyileukan",
+    "rating": "4,6",
+    "reviews": "(29)",
+    "category": "4,6(29)Kedai KopiTutup ⋅ Buka pukul 16.00Tutup ⋅ Buka pukul 16.00",
+    "address": "· Rp 25–50 rb",
+    "link": "https://www.google.com/maps/place/Koffie+Waroeng+Panyileukan/data=!4m7!3m6!1s0x2e68c2df4a709c8f:0x53cffa00f1431987!8m2!3d-6.9398811!4d107.7147994!16s%2Fg%2F11b6gp_sw5!19sChIJj5xwSt_CaC4RhxlD8QD6z1M?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Toko ZOIE",
+    "rating": "5,0",
+    "reviews": "(1)",
+    "category": "5,0(1)Kedai KopiTutup ⋅ Buka pukul 10.30Tutup ⋅ Buka pukul 10.30",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Toko+ZOIE/data=!4m7!3m6!1s0x2e68dd0007d02a09:0xa4620f1636cf7a88!8m2!3d-6.9204258!4d107.7224101!16s%2Fg%2F11xrdwhh71!19sChIJCSrQBwDdaC4RiHrPNhYPYqQ?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Angkringan sigembul",
+    "rating": "4,9",
+    "reviews": "(66)",
+    "category": "4,9(66)KafeTutup ⋅ Buka pukul 16.00Tutup ⋅ Buka pukul 16.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Angkringan+sigembul/data=!4m7!3m6!1s0x2e68c385a7df79dd:0x745d9e5285136d3f!8m2!3d-6.9252702!4d107.7205605!16s%2Fg%2F11hhlc9m_4!19sChIJ3Xnfp4XDaC4RP20ThVKeXXQ?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Kedai Under Tree Coffee",
+    "rating": "4,5",
+    "reviews": "(11)",
+    "category": "4,5(11)Kedai KopiTutup ⋅ Buka pukul 10.00Tutup ⋅ Buka pukul 10.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Kedai+Under+Tree+Coffee/data=!4m7!3m6!1s0x2e68c36fbea7813f:0x44831d5841ee0311!8m2!3d-6.9368588!4d107.7226249!16s%2Fg%2F11t7zr8lt2!19sChIJP4Gnvm_DaC4REQPuQVgdg0Q?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "CIPADUNG POINT",
+    "rating": "4,5",
+    "reviews": "(8)",
+    "category": "4,5(8)Kafe",
+    "address": "",
+    "link": "https://www.google.com/maps/place/CIPADUNG+POINT/data=!4m7!3m6!1s0x2e68c38592a5caf3:0xd890da25133c8089!8m2!3d-6.925311!4d107.7182745!16s%2Fg%2F11h98ww30j!19sChIJ88qlkoXDaC4RiYA8EyXakNg?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Red Zone snack and drink",
+    "rating": "4,6",
+    "reviews": "(5)",
+    "category": "4,6(5)KafeBuka 24 jamBuka 24 jam",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Red+Zone+snack+and+drink/data=!4m7!3m6!1s0x2e68dcd3f800fc45:0x67d407ee85020666!8m2!3d-6.9194166!4d107.7221815!16s%2Fg%2F11bw66kvcf!19sChIJRfwA-NPcaC4RZgYChe4H1Gc?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Redrum Space",
+    "rating": "5,0",
+    "reviews": "(2)",
+    "category": "5,0(2)KafeTutup ⋅ Buka pukul 13.00Tutup ⋅ Buka pukul 13.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Redrum+Space/data=!4m7!3m6!1s0x6e74a2aaf6e7ab1d:0xa14c5d918eef7c49!8m2!3d-6.9207564!4d107.7211381!16s%2Fg%2F11t59shj85!19sChIJHavn9qqidG4RSXzvjpFdTKE?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Mister Pizang",
+    "rating": "5,0",
+    "reviews": "(1)",
+    "category": "5,0(1)Kedai Kopi",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Mister+Pizang/data=!4m7!3m6!1s0x2e68c3e3fa9381ff:0x5b88fe6be6f8d51a!8m2!3d-6.9252659!4d107.7205227!16s%2Fg%2F11sx4nsjqj!19sChIJ_4GT-uPDaC4RGtX45mv-iFs?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Chulainuz coffe",
+    "rating": "5,0",
+    "reviews": "(5)",
+    "category": "5,0(5)KafeTutup ⋅ Buka pukul 16.00Tutup ⋅ Buka pukul 16.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Chulainuz+coffe/data=!4m7!3m6!1s0x2e68c3b9fdf3044d:0x216aca0e372390db!8m2!3d-6.9252513!4d107.7205161!16s%2Fg%2F11l8gnynrq!19sChIJTQTz_bnDaC4R25AjNw7KaiE?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Syde Coffee",
+    "rating": "4,9",
+    "reviews": "(148)",
+    "category": "4,9(148)Kedai KopiTutup ⋅ Buka pukul 10.00Tutup ⋅ Buka pukul 10.00",
+    "address": "· Rp 25–50 rb",
+    "link": "https://www.google.com/maps/place/Syde+Coffee/data=!4m7!3m6!1s0x2e68c30028aac3bb:0xae3ad9286fb4fa76!8m2!3d-6.9400813!4d107.706685!16s%2Fg%2F11vzy8z0f7!19sChIJu8OqKADDaC4Rdvq0byjZOq4?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Kini Cheestea Cipadung",
+    "rating": "5,0",
+    "reviews": "(1)",
+    "category": "5,0(1)Kedai KopiTutup ⋅ Buka pukul 11.00Tutup ⋅ Buka pukul 11.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Kini+Cheestea+Cipadung/data=!4m7!3m6!1s0x2e68ddd1dc3c84a9:0xa396b7ac38a2e0dc!8m2!3d-6.9206479!4d107.721027!16s%2Fg%2F11lkgngb5s!19sChIJqYQ83NHdaC4R3OCiOKy3lqM?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "raflyramhome",
+    "rating": "4,5",
+    "reviews": "(4)",
+    "category": "4,5(4)KafeBuka ⋅ Tutup pukul 00.00Buka ⋅ Tutup pukul 00.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/raflyramhome/data=!4m7!3m6!1s0x2e68dcd5f57be107:0x174d60b5795ea65a!8m2!3d-6.9201526!4d107.7162463!16s%2Fg%2F11f31jl02g!19sChIJB-F79dXcaC4RWqZeebVgTRc?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "RUANG KADJI",
+    "rating": "5,0",
+    "reviews": "(17)",
+    "category": "5,0(17)Kedai KopiTutup ⋅ Buka pukul 14.00Tutup ⋅ Buka pukul 14.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/RUANG+KADJI/data=!4m7!3m6!1s0x2e68c3beb37e5149:0xfc114aab1c517d76!8m2!3d-6.9418171!4d107.7214226!16s%2Fg%2F11vpn1c_v4!19sChIJSVF-s77DaC4Rdn1RHKtKEfw?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "The Coffee Bean & Tea Leaf (Transmart Carrefour Cipadung)",
+    "rating": "4,0",
+    "reviews": "(54)",
+    "category": "4,0(54)Kedai KopiKedai kopi dengan minuman dinginTutup ⋅ Buka pukul 10.00Tutup ⋅ Buka pukul 10.00",
+    "address": "· Rp 25–50 rb",
+    "link": "https://www.google.com/maps/place/The+Coffee+Bean+%26+Tea+Leaf+%28Transmart+Carrefour+Cipadung%29/data=!4m7!3m6!1s0x2e68c2d7d20ebc55:0x6446669eefee388c!8m2!3d-6.925256!4d107.7107596!16s%2Fg%2F11c52snswn!19sChIJVbwO0tfCaC4RjDju755mRmQ?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Angkringan Akusara",
+    "rating": "4,4",
+    "reviews": "(13)",
+    "category": "4,4(13)Kedai KopiTutup ⋅ Buka pukul 18.00Tutup ⋅ Buka pukul 18.00",
+    "address": "· 3PMF+WVW, 3PQH+F88, Jl. Palasari",
+    "link": "https://www.google.com/maps/place/Angkringan+Akusara/data=!4m7!3m6!1s0x2e68dd1ce5f7f723:0xde67a7459baed70b!8m2!3d-6.915012!4d107.7247432!16s%2Fg%2F11t0md2zxn!19sChIJI_f35RzdaC4RC9eum0WnZ94?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Sideway Coffee and Creative Space",
+    "rating": "4,9",
+    "reviews": "(36)",
+    "category": "4,9(36)Kedai KopiTutup ⋅ Buka pukul 13.00Tutup ⋅ Buka pukul 13.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Sideway+Coffee+and+Creative+Space/data=!4m7!3m6!1s0x2e68dd912edf0a45:0x8c3a0d7522a8dd0a!8m2!3d-6.9049994!4d107.6949047!16s%2Fg%2F11jztm29v4!19sChIJRQrfLpHdaC4RCt2oInUNOow?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "NGOPDULS",
+    "rating": "5,0",
+    "reviews": "(8)",
+    "category": "5,0(8)Kedai KopiTutup ⋅ Buka pukul 08.00Tutup ⋅ Buka pukul 08.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/NGOPDULS/data=!4m7!3m6!1s0x2e68dd0047aa8c2b:0x6a8355c00e58ec79!8m2!3d-6.9217478!4d107.7229932!16s%2Fg%2F11y89j157m!19sChIJK4yqRwDdaC4ReexYDsBVg2o?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Water 23",
+    "rating": "4,1",
+    "reviews": "(22)",
+    "category": "4,1(22)KafeTutup ⋅ Buka pukul 09.00Tutup ⋅ Buka pukul 09.00",
+    "address": "· Jl. Sukasari No.23",
+    "link": "https://www.google.com/maps/place/Water+23/data=!4m7!3m6!1s0x2e68dcd484ad0ce3:0xb29d737257c6a6c2!8m2!3d-6.9213715!4d107.7220351!16s%2Fg%2F11f3g_q5mh!19sChIJ4wythNTcaC4RwqbGV3JznbI?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "WARUNG GUMILANG",
+    "rating": "5,0",
+    "reviews": "(1)",
+    "category": "5,0(1)Kedai Kopi",
+    "address": "",
+    "link": "https://www.google.com/maps/place/WARUNG+GUMILANG/data=!4m7!3m6!1s0x2e68ddb65637653f:0x4dfc47f26ea6a3c7!8m2!3d-6.921425!4d107.7180707!16s%2Fg%2F11scp5b4_h!19sChIJP2U3VrbdaC4Rx6OmbvJH_E0?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Rama Motor",
+    "rating": "5,0",
+    "reviews": "(1)",
+    "category": "5,0(1)Kafe",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Rama+Motor/data=!4m7!3m6!1s0x2e68ddf3a4d93853:0x643b900958103642!8m2!3d-6.9250956!4d107.7184809!16s%2Fg%2F11h2mdr83j!19sChIJUzjZpPPdaC4RQjYQWAmQO2Q?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Tequila cafe",
+    "rating": "",
+    "reviews": "",
+    "category": "Kedai KopiTutup ⋅ Buka pukul 10.00Tutup ⋅ Buka pukul 10.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Tequila+cafe/data=!4m7!3m6!1s0x2e68dd6f8f29e1e3:0x741554b2bbf335ae!8m2!3d-6.9136317!4d107.7161241!16s%2Fg%2F11rk9wskn2!19sChIJ4-Epj2_daC4RrjXzu7JUFXQ?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Rumah Mirza",
+    "rating": "4,3",
+    "reviews": "(3)",
+    "category": "4,3(3)KafeTutup ⋅ Buka pukul 09.00Tutup ⋅ Buka pukul 09.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Rumah+Mirza/data=!4m7!3m6!1s0x2e68dd00e800508b:0x20c307eb9dedbf63!8m2!3d-6.9225414!4d107.7246045!16s%2Fg%2F11fl8_txjy!19sChIJi1AA6ADdaC4RY7_tnesHwyA?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "JILI'S CAPULUS",
+    "rating": "5,0",
+    "reviews": "(3)",
+    "category": "5,0(3)Kedai KopiTutup ⋅ Buka pukul 12.00Tutup ⋅ Buka pukul 12.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/JILI%27S+CAPULUS/data=!4m7!3m6!1s0x2e68ddf10706e01f:0xd28a2177daf9971e!8m2!3d-6.9201563!4d107.7207515!16s%2Fg%2F11fp328k4n!19sChIJH-AGB_HdaC4RHpf52nchitI?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Pusat weertege",
+    "rating": "",
+    "reviews": "",
+    "category": "Kedai Kopi",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Pusat+weertege/data=!4m7!3m6!1s0x2e68c30038e8b809:0x9e89ff7f9560ebd!8m2!3d-6.9269184!4d107.7172351!16s%2Fg%2F11mcsdxd2n!19sChIJCbjoOADDaC4RvQ5W-fef6Ak?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "TUNGKU JURAGAN",
+    "rating": "5,0",
+    "reviews": "(1)",
+    "category": "5,0(1)KafeTutup ⋅ Buka pukul 13.30Tutup ⋅ Buka pukul 13.30",
+    "address": "",
+    "link": "https://www.google.com/maps/place/TUNGKU+JURAGAN/data=!4m7!3m6!1s0x2e68dd570ae09c2d:0x1e42b968bb2944a3!8m2!3d-6.921659!4d107.723777!16s%2Fg%2F11j53n5h2x!19sChIJLZzgClfdaC4Ro0Qpu2i5Qh4?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Seblak Teh Iyam Cibiru",
+    "rating": "3,4",
+    "reviews": "(112)",
+    "category": "3,4(112)Kedai KopiTutup ⋅ Buka pukul 10.00Tutup ⋅ Buka pukul 10.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Seblak+Teh+Iyam+Cibiru/data=!4m7!3m6!1s0x2e68c30060e090e7:0x4881191ae772f5d3!8m2!3d-6.9348106!4d107.7192011!16s%2Fg%2F11lf1xlnlb!19sChIJ55DgYADDaC4R0_Vy5xoZgUg?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Warkop Mas Ganteng",
+    "rating": "4,9",
+    "reviews": "(16)",
+    "category": "4,9(16)Kedai KopiBuka 24 jamBuka 24 jam",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Warkop+Mas+Ganteng/data=!4m7!3m6!1s0x2e68c3a192748a35:0x7b2e0a0bb75e4128!8m2!3d-6.9430061!4d107.7211488!16s%2Fg%2F11r9mgfgpd!19sChIJNYp0kqHDaC4RKEFetwsKLns?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Warung Jadul Cibiru",
+    "rating": "4,2",
+    "reviews": "(34)",
+    "category": "4,2(34)KafeTutup ⋅ Buka pukul 09.00Tutup ⋅ Buka pukul 09.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Warung+Jadul+Cibiru/data=!4m7!3m6!1s0x2e68c3281f9e7d25:0x931f5002a37008f1!8m2!3d-6.9334951!4d107.7163992!16s%2Fg%2F11cp7h9n7t!19sChIJJX2eHyjDaC4R8QhwowJQH5M?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "COFFEEKU",
+    "rating": "",
+    "reviews": "",
+    "category": "Kafe",
+    "address": "",
+    "link": "https://www.google.com/maps/place/COFFEEKU/data=!4m7!3m6!1s0x2e68c3d02b4b802d:0x1d6f8daa536ec3ab!8m2!3d-6.9240887!4d107.7190657!16s%2Fg%2F11xd6120wx!19sChIJLYBLK9DDaC4Rq8NuU6qNbx0?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Warkop Cikuda",
+    "rating": "5,0",
+    "reviews": "(13)",
+    "category": "5,0(13)Rumah MakanTutup ⋅ Buka pukul 15.00Tutup ⋅ Buka pukul 15.00",
+    "address": "· Rp 1–25.000",
+    "link": "https://www.google.com/maps/place/Warkop+Cikuda/data=!4m7!3m6!1s0x2e68ddfc1d69770f:0x97277083a16d78cc!8m2!3d-6.920334!4d107.7240239!16s%2Fg%2F11ldjqz5f3!19sChIJD3dpHfzdaC4RzHhtoYNwJ5c?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "warjo",
+    "rating": "4,1",
+    "reviews": "(7)",
+    "category": "4,1(7)Kafe",
+    "address": "",
+    "link": "https://www.google.com/maps/place/warjo/data=!4m7!3m6!1s0x2e68dd2cbfaacbe7:0xd69380f2b17ee962!8m2!3d-6.9229141!4d107.7214867!16s%2Fg%2F11fklshrg0!19sChIJ58uqvyzdaC4RYul-sfKAk9Y?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Kedai coffee",
+    "rating": "",
+    "reviews": "",
+    "category": "KafeTutup ⋅ Buka pukul 09.00Tutup ⋅ Buka pukul 09.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Kedai+coffee/data=!4m7!3m6!1s0x2e68dd4c4953c2a5:0xa6a1a0dab476e096!8m2!3d-6.9238615!4d107.719476!16s%2Fg%2F11xctws9j7!19sChIJpcJTSUzdaC4RluB2tNqgoaY?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Kedai Permana",
+    "rating": "4,0",
+    "reviews": "(3)",
+    "category": "4,0(3)Kedai KopiTutup ⋅ Buka pukul 10.00Tutup ⋅ Buka pukul 10.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Kedai+Permana/data=!4m7!3m6!1s0x2e68dd4cae573931:0x2a223b3c0508d09!8m2!3d-6.9193146!4d107.7243078!16s%2Fg%2F11smypq8fd!19sChIJMTlXrkzdaC4RCY1QwLMjogI?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Jajanan D'Lyne Pusat",
+    "rating": "5,0",
+    "reviews": "(5)",
+    "category": "5,0(5)KafeBuka ⋅ Tutup pukul 22.00Buka ⋅ Tutup pukul 22.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Jajanan+D%27Lyne+Pusat/data=!4m7!3m6!1s0x2e68dbce12fdcb2d:0xa8b8d8aa39b3f7e9!8m2!3d-6.9215401!4d107.7230294!16s%2Fg%2F11vqs84_z7!19sChIJLcv9Es7baC4R6fezOarYuKg?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Warung NGEUPOP",
+    "rating": "5,0",
+    "reviews": "(1)",
+    "category": "5,0(1)KafeTutup ⋅ Buka pukul 10.00Tutup ⋅ Buka pukul 10.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Warung+NGEUPOP/data=!4m7!3m6!1s0x2e68c35a5d1eb031:0xb253024927d28898!8m2!3d-6.9266335!4d107.7175807!16s%2Fg%2F11q23wmn_y!19sChIJMbAeXVrDaC4RmIjSJ0kCU7I?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "OCHIE",
+    "rating": "3,2",
+    "reviews": "(6)",
+    "category": "3,2(6)KafeTutup ⋅ Buka Sen pukul 09.00Tutup ⋅ Buka Sen pukul 09.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/OCHIE/data=!4m7!3m6!1s0x2e68dcd65c17fe29:0x754c46f03257ec1d!8m2!3d-6.9173869!4d107.7187933!16s%2Fg%2F11cm_3k8y1!19sChIJKf4XXNbcaC4RHexXMvBGTHU?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Rumah cafe",
+    "rating": "",
+    "reviews": "",
+    "category": "Kedai Kopi",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Rumah+cafe/data=!4m7!3m6!1s0x2e68ddf9ef2633f1:0x27b73b8544376cc5!8m2!3d-6.909691!4d107.7232814!16s%2Fg%2F11l65s_86d!19sChIJ8TMm7_ndaC4RxWw3RIU7tyc?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Ndeu acil bdgt",
+    "rating": "5,0",
+    "reviews": "(2)",
+    "category": "5,0(2)Kafe",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Ndeu+acil+bdgt/data=!4m7!3m6!1s0x2e68ddccb61c5fd9:0x5e5039531cf20cd!8m2!3d-6.9228882!4d107.7157233!16s%2Fg%2F11jj6ltnjg!19sChIJ2V8ctszdaC4RzSDPMZUD5QU?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "FR DIMSUM",
+    "rating": "5,0",
+    "reviews": "(4)",
+    "category": "5,0(4)Kedai KopiTutup ⋅ Buka pukul 09.00Tutup ⋅ Buka pukul 09.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/FR+DIMSUM/data=!4m7!3m6!1s0x2e68dd0020f5db2d:0x4e7767db396bed99!8m2!3d-6.9194795!4d107.7200546!16s%2Fg%2F11yhw_zhx4!19sChIJLdv1IADdaC4Rme1rOdtnd04?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Endang",
+    "rating": "",
+    "reviews": "",
+    "category": "KafeBuka ⋅ Tutup pukul 00.00Buka ⋅ Tutup pukul 00.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Endang/data=!4m7!3m6!1s0x2e68dd7843198afb:0xad75ac23c51ae8c1!8m2!3d-6.9228936!4d107.7157335!16s%2Fg%2F11jpl9j1tc!19sChIJ-4oZQ3jdaC4RwegaxSOsda0?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "caritabyrasokir10",
+    "rating": "",
+    "reviews": "",
+    "category": "Kedai KopiTutup ⋅ Buka pukul 08.00Tutup ⋅ Buka pukul 08.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/caritabyrasokir10/data=!4m7!3m6!1s0x2e68dd00426177e5:0x7e884fb5b0149153!8m2!3d-6.9220934!4d107.7163623!16s%2Fg%2F11yjtsdnlk!19sChIJ5XdhQgDdaC4RU5EUsLVPiH4?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Es Coklat Luber",
+    "rating": "1,0",
+    "reviews": "(1)",
+    "category": "1,0(1)Kedai KopiBuka ⋅ Tutup pukul 22.00Buka ⋅ Tutup pukul 22.00",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Es+Coklat+Luber/data=!4m7!3m6!1s0x2e68c32df59fefbd:0xb05159cf92da2c7c!8m2!3d-6.9256224!4d107.7180861!16s%2Fg%2F11k4xp0q2n!19sChIJve-f9S3DaC4RfCzaks9ZUbA?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Rumah Rasa",
+    "rating": "",
+    "reviews": "",
+    "category": "Kedai Kopi",
+    "address": "",
+    "link": "https://www.google.com/maps/place/Rumah+Rasa/data=!4m7!3m6!1s0x2e68dd00072553b5:0xfd8ce46b0dd6feba!8m2!3d-6.923986!4d107.7210242!16s%2Fg%2F11xf8lxrcw!19sChIJtVMlBwDdaC4Ruv7WDWvkjP0?authuser=0&hl=id&rclk=1"
+  },
+  {
+    "name": "Jars Bake & Brew",
+    "rating": "4,8",
+    "reviews": "(24)",
+    "category": "4,8(24)Kedai Kopi",
+    "address": "· Rp 25–50 rb",
+    "link": "https://www.google.com/maps/place/Jars+Bake+%26+Brew/data=!4m7!3m6!1s0x2e68c3006dd8abc7:0x76aff31e97553c49!8m2!3d-6.9399108!4d107.7147411!16s%2Fg%2F11y8lyqgd5!19sChIJx6vYbQDDaC4RSTxVlx7zr3Y?authuser=0&hl=id&rclk=1"
+  }
+]
